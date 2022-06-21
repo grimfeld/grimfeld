@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grimfeld</h1>
 <h3 align="center">A software developer from France</h3>
 
-- 🔭 I’m currently working on [Achyle, an online contract generator](https://achyle.io)
+- 🔭 I’m currently working on personal projects
 
 - 🌱 I’m currently learning **React advanced topics**
 
