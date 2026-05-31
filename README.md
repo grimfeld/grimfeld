@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul aka Grimfeld</h1>
 <h3 align="center">A software developer from France</h3>
 
-- 🔭 I’m currently working on **Pillar, a productivity tool**
-
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working on **Lexica, a language learning tool**
 
 - 💬 Ask me about **React, next and Firebase**
 
